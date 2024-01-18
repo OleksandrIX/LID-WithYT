@@ -1,0 +1,9 @@
+.idea
+.vscode
+
+logs/**/*
+*.log
+
+.env
+
+tensorflow/logs/**/*
